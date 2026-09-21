@@ -1,0 +1,3839 @@
+{
+    "recipes": [
+        {
+            "id": "chelow-tahdig",
+            "title": "Chelow with Tahdig",
+            "originalName": "چلو ته‌دیگ",
+            "description": "Steamed Persian rice, every grain long and separate, over a golden crisp crust — the tahdig, which is what many people are actually there for.",
+            "category": "Rice & Tahdig",
+            "kosherType": "Parve",
+            "image": "images/Chelow_Tahdig.jpg",
+            "prepTime": 30,
+            "cookTime": 75,
+            "servings": 6,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "basmati rice",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water",
+                    "quantity": "",
+                    "unit": "as needed"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a generous pinch"
+                },
+                {
+                    "name": "large potato",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Rinse the rice five times until the water runs clear, then soak in salted water for at least two hours. This is what keeps the grains separate.",
+                "Boil a large pot of salted water, add the drained rice and cook 6–8 minutes only — soft outside, still firm at the core. Drain and rinse with lukewarm water.",
+                "Steep the saffron in 3 tablespoons of hot water. Slice the potato into half-centimetre rounds.",
+                "Heat the oil in the base of the pot and lay the potato slices in a single layer, dusted with turmeric — this is the tahdig.",
+                "Mound the rice on top in a pyramid, poke five holes through it with the handle of a wooden spoon, and drizzle over a little oil and the saffron water.",
+                "Wrap the lid in a tea towel, cover tightly and steam over very low heat for 50 minutes. Invert onto a large plate — tahdig on top."
+            ],
+            "tags": [
+                "rice",
+                "tahdig",
+                "saffron",
+                "parve",
+                "classic"
+            ]
+        },
+        {
+            "id": "baghali-polo",
+            "title": "Baghali Polo — Fava and Dill Rice",
+            "originalName": "باقالی پلو",
+            "description": "Green-and-white rice with fresh fava beans and an amount of dill that looks excessive until you taste it. The spring dish of Persia.",
+            "category": "Rice & Tahdig",
+            "kosherType": "Parve",
+            "image": "images/Baghali_Polo.jpg",
+            "prepTime": 30,
+            "cookTime": 70,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "basmati rice",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "shelled green fava beans",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "fresh dill, chopped",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Soak the rice in salted water for two hours, then rinse and drain.",
+                "Blanch the favas for 3 minutes and refresh in cold water. If the outer skin is thick, slip it off.",
+                "Boil the rice in salted water for 6 minutes, drain and rinse.",
+                "Fold the drained rice together with the favas, dill and cinnamon — gently, so the grains stay whole.",
+                "Heat the oil in the pot, mound the mixture into a pyramid and poke holes through it. Pour over the saffron water.",
+                "Cover with a towel-wrapped lid and steam 45 minutes over very low heat."
+            ],
+            "tags": [
+                "rice",
+                "fava",
+                "dill",
+                "parve",
+                "spring"
+            ]
+        },
+        {
+            "id": "zereshk-polo",
+            "title": "Zereshk Polo — Barberry Rice",
+            "originalName": "زرشک پلو",
+            "description": "Saffron rice with sharp red barberries and flaked almonds. The colour alone explains why this is a dish for guests.",
+            "category": "Rice & Tahdig",
+            "kosherType": "Parve",
+            "image": "images/Zereshk_Polo.jpg",
+            "prepTime": 25,
+            "cookTime": 65,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "basmati rice",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dried barberries (zereshk)",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "flaked almonds",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "chopped pistachios",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a generous pinch"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Soak the rice in salted water for two hours. Soak the barberries in cold water for 15 minutes — they carry grit — and drain well.",
+                "Boil the rice 6 minutes in salted water, drain and rinse.",
+                "Steam the rice in an oiled pot for 45 minutes under a towel-wrapped lid.",
+                "Heat 2 tablespoons of oil in a small pan over low heat, add the barberries and sugar and fry for 60 seconds only — they burn instantly.",
+                "Lift out a cup of rice and stir it into the saffron water until it turns deep orange.",
+                "To serve: white rice as the base, the saffron rice over it, then scatter the barberries, almonds and pistachios."
+            ],
+            "tags": [
+                "rice",
+                "barberry",
+                "saffron",
+                "parve",
+                "festive"
+            ]
+        },
+        {
+            "id": "adas-polo",
+            "title": "Adas Polo — Lentil and Date Rice",
+            "originalName": "عدس پلو",
+            "description": "Rice with brown lentils, raisins and caramelised dates. Sweet and savoury at once, and filling enough to stand alone.",
+            "category": "Rice & Tahdig",
+            "kosherType": "Parve",
+            "image": "images/Adas_Polo.jpg",
+            "prepTime": 25,
+            "cookTime": 70,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "basmati rice",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "brown lentils",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pitted dates",
+                    "quantity": "150",
+                    "unit": "g"
+                },
+                {
+                    "name": "dark raisins",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, thinly sliced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Cook the lentils in water for 15 minutes — tender but whole — and drain.",
+                "Boil the soaked rice for 6 minutes in salted water, drain and rinse.",
+                "Fry the onions in oil until deeply golden, add the raisins and chopped dates and fry 3 minutes with the cinnamon.",
+                "Oil the pot and layer alternately: rice, lentils, the date mixture — finishing with rice.",
+                "Poke holes through, pour over the saffron water and a little oil.",
+                "Steam 45 minutes over very low heat under a towel-wrapped lid."
+            ],
+            "tags": [
+                "rice",
+                "lentils",
+                "dates",
+                "parve",
+                "comfort"
+            ]
+        },
+        {
+            "id": "sabzi-polo",
+            "title": "Sabzi Polo — Herb Rice",
+            "originalName": "سبزی پلو",
+            "description": "Rice turned deep green with parsley, coriander, dill and chives. Served at Nowruz, and at the Persian-Jewish seder.",
+            "category": "Rice & Tahdig",
+            "kosherType": "Parve",
+            "image": "images/Sabzi_Polo.jpg",
+            "prepTime": 30,
+            "cookTime": 65,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "basmati rice",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dill, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "chives, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried fenugreek",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Chop all the herbs very finely and dry them thoroughly — wet herbs turn the rice to porridge.",
+                "Boil the soaked rice 6 minutes in salted water, drain and rinse.",
+                "Fold the rice together with all the herbs and the fenugreek, gently.",
+                "Heat the oil in the pot and mound the mixture into a pyramid. Poke five holes through it.",
+                "Pour over the saffron water and a little oil, then cover with a towel-wrapped lid.",
+                "Steam 45 minutes over very low heat. Serve beside fish or meatballs."
+            ],
+            "tags": [
+                "rice",
+                "herbs",
+                "nowruz",
+                "parve",
+                "passover"
+            ]
+        },
+        {
+            "id": "shirin-polo",
+            "title": "Shirin Polo — Sweet Rice",
+            "originalName": "شیرین پلو",
+            "description": "Wedding rice: candied orange peel, carrot, almonds and pistachios. Sweet, golden, and meant for a large table.",
+            "category": "Rice & Tahdig",
+            "kosherType": "Parve",
+            "image": "images/Shirin_Polo.jpg",
+            "prepTime": 35,
+            "cookTime": 70,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "basmati rice",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "peel of oranges",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "carrots, fine matchsticks",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "flaked almonds",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "chopped pistachios",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "rosewater",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a generous pinch"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Cut the orange peel into very thin strips and blanch three times in fresh boiling water — this removes the bitterness.",
+                "Make a syrup with 1/2 cup sugar and 1/2 cup water, add the peel and carrot and cook 10 minutes. Stir in the rosewater and cardamom.",
+                "Soak and boil the rice 6 minutes, drain and rinse.",
+                "Lightly toast the almonds and pistachios in a dry pan.",
+                "Layer rice and the citrus mixture in an oiled pot, finishing with rice. Poke holes and pour over the saffron water.",
+                "Steam 45 minutes over very low heat. Scatter the nuts before serving."
+            ],
+            "tags": [
+                "rice",
+                "orange",
+                "sweet",
+                "parve",
+                "wedding"
+            ]
+        },
+        {
+            "id": "lubia-polo",
+            "title": "Lubia Polo — Green Bean and Meat Rice",
+            "originalName": "لوبیا پلو",
+            "description": "Rice with green beans and ground lamb in a tomato and cinnamon sauce. A weekday dish that tastes like an occasion.",
+            "category": "Rice & Tahdig",
+            "kosherType": "Meat",
+            "image": "images/Lubia_Polo.jpg",
+            "prepTime": 25,
+            "cookTime": 85,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "basmati rice",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "ground lamb",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "green beans, cut",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "onion, chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onion in oil until golden, add the turmeric and the ground lamb and cook until browned.",
+                "Add the green beans, tomato paste, cinnamon, salt, pepper and half a cup of water. Cook 20 minutes until the beans are tender and almost dry.",
+                "Soak and boil the rice 6 minutes in salted water, drain and rinse.",
+                "Oil the pot and layer rice and the meat mixture alternately, finishing with rice.",
+                "Poke holes through, pour over the saffron water and a little oil.",
+                "Steam 45 minutes over very low heat. No dairy at any stage."
+            ],
+            "tags": [
+                "rice",
+                "green beans",
+                "lamb",
+                "meat",
+                "weeknight"
+            ]
+        },
+        {
+            "id": "albaloo-polo",
+            "title": "Albaloo Polo — Sour Cherry Rice",
+            "originalName": "آلبالو پلو",
+            "description": "Pink rice with sour cherries in syrup. The contrast between sweet and sharp is the whole point.",
+            "category": "Rice & Tahdig",
+            "kosherType": "Parve",
+            "image": "images/Albaloo_Polo.jpg",
+            "prepTime": 25,
+            "cookTime": 65,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "basmati rice",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "pitted sour cherries",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "flaked almonds",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Cook the cherries with the sugar over low heat for 15 minutes. Strain and keep the syrup separately — it is for serving.",
+                "Reduce the syrup another 10 minutes until thick, then stir in the cardamom.",
+                "Soak and boil the rice 6 minutes, drain and rinse.",
+                "Oil the pot and layer rice and cherries, finishing with rice — the cherries stay inside so they do not scorch.",
+                "Poke holes, pour over the saffron water and steam 45 minutes over low heat.",
+                "Serve with the syrup poured over and flaked almonds scattered on top."
+            ],
+            "tags": [
+                "rice",
+                "sour cherry",
+                "sweet-sour",
+                "parve",
+                "summer"
+            ]
+        },
+        {
+            "id": "kateh",
+            "title": "Kateh — Simple Rice",
+            "originalName": "کته",
+            "description": "Rice the northern way: everything in one pot, no draining. Less ceremony than chelow, and it still gives you a tahdig.",
+            "category": "Rice & Tahdig",
+            "kosherType": "Parve",
+            "image": "images/Kateh_Rice.jpg",
+            "prepTime": 10,
+            "cookTime": 45,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "basmati rice",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                }
+            ],
+            "instructions": [
+                "Rinse the rice three times and drain. No long soak needed.",
+                "Put the rice, water, oil and salt in a pot and bring to the boil over medium heat.",
+                "Cook uncovered until the water is absorbed and the rice surfaces — about 10 minutes.",
+                "Turn the heat to its lowest, wrap the lid in a towel and cover.",
+                "Cook 30 minutes without opening. The base forms a thin, crisp tahdig.",
+                "Drizzle with the saffron water, fold gently and serve."
+            ],
+            "tags": [
+                "rice",
+                "kateh",
+                "simple",
+                "parve",
+                "everyday"
+            ]
+        },
+        {
+            "id": "dami-gojeh",
+            "title": "Dami Gojeh — Tomato Rice",
+            "originalName": "دمی گوجه",
+            "description": "Orange-red rice cooked together with fresh tomato and paste. A Monday-night rice that always gets finished.",
+            "category": "Rice & Tahdig",
+            "kosherType": "Parve",
+            "image": "images/Dami_Gojeh.jpg",
+            "prepTime": 15,
+            "cookTime": 50,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "basmati rice",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "boiling water",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Rinse the rice and soak it 30 minutes in salted water.",
+                "Fry the onion in oil until translucent, add the turmeric and paprika and stir for 30 seconds.",
+                "Add the tomato paste and fry for a minute, then the grated tomatoes. Cook 10 minutes.",
+                "Add the drained rice, stir, and pour in the boiling water. Season.",
+                "Cook uncovered until the liquid is absorbed, about 10 minutes.",
+                "Reduce to the lowest heat, cover with a towel-wrapped lid and steam 25 minutes."
+            ],
+            "tags": [
+                "rice",
+                "tomato",
+                "quick",
+                "parve",
+                "everyday"
+            ]
+        },
+        {
+            "id": "ghormeh-sabzi",
+            "title": "Ghormeh Sabzi",
+            "originalName": "قورمه سبزی",
+            "description": "Iran's national dish: a sea of fried herbs, kidney beans, lamb and dried Persian lime. Dark green and sharply sour.",
+            "category": "Khoresht & Stews",
+            "kosherType": "Meat",
+            "image": "images/Ghormeh_Sabzi.jpg",
+            "prepTime": 30,
+            "cookTime": 180,
+            "servings": 6,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "lamb or beef, cubed",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "chives or leek, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried fenugreek",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "kidney beans, soaked overnight",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried Persian limes",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the chopped herbs in a third of the oil over low heat for 20–25 minutes, stirring. They must darken and shrink — this step decides the flavour of the whole dish and cannot be rushed.",
+                "In a separate pot fry the onion in oil until golden, add the turmeric and the meat and sear on all sides.",
+                "Add the soaked beans and water to cover. Bring to the boil and cook covered for an hour.",
+                "Add the fried herbs and the dried limes — pierce them with a fork first so they release their flavour.",
+                "Cook another hour and a half over low heat, until the meat falls apart and the sauce is dark and thick.",
+                "Season. If it is too sour, lift out one lime. Serve over chelow."
+            ],
+            "tags": [
+                "ghormeh sabzi",
+                "herbs",
+                "lamb",
+                "meat",
+                "national"
+            ]
+        },
+        {
+            "id": "fesenjan",
+            "title": "Fesenjan — Chicken in Walnut and Pomegranate",
+            "originalName": "فسنجان",
+            "description": "A deep brown-purple sauce of ground walnuts and pomegranate molasses. Sweet, sour and unusually rich.",
+            "category": "Khoresht & Stews",
+            "kosherType": "Meat",
+            "image": "images/Fesenjan.jpg",
+            "prepTime": 25,
+            "cookTime": 150,
+            "servings": 6,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "chicken legs",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "walnuts, finely ground",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Toast the walnuts in a dry pan for 5 minutes until fragrant, cool and grind very finely in a processor.",
+                "Fry the onion in oil until golden, add the turmeric and set aside. In the same pot sear the chicken legs until golden and remove.",
+                "Add the ground walnuts and the water to the pot and cook over very low heat for 45 minutes, stirring often — the walnut oil will rise to the surface, which is the sign it is ready.",
+                "Stir in the pomegranate molasses, sugar and cinnamon. The sauce will darken almost to chocolate brown.",
+                "Return the chicken and onion and cook covered another hour over low heat.",
+                "Season. Too sour, add sugar; too sweet, add molasses. Serve over white chelow."
+            ],
+            "tags": [
+                "fesenjan",
+                "walnut",
+                "pomegranate",
+                "meat",
+                "festive"
+            ]
+        },
+        {
+            "id": "gheimeh",
+            "title": "Gheimeh — Yellow Split Pea Stew",
+            "originalName": "قیمه",
+            "description": "A lamb stew with yellow split peas and dried lime, buried under a mountain of matchstick fried potatoes.",
+            "category": "Khoresht & Stews",
+            "kosherType": "Meat",
+            "image": "images/Gheimeh.jpg",
+            "prepTime": 25,
+            "cookTime": 120,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "lamb, cubed",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "dried yellow split peas",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "dried Persian limes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "potatoes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Soak the split peas in hot water for 30 minutes and drain.",
+                "Fry the onion in oil until golden, add the turmeric and the meat and sear on all sides.",
+                "Add the tomato paste and fry a minute, then water to cover. Cook covered for an hour.",
+                "Add the split peas and the pierced limes and cook a further 40 minutes, until the peas are tender but not collapsing.",
+                "Cut the potatoes into thin matchsticks, dry them and deep-fry until golden and crisp.",
+                "Season, stir in the saffron water, and serve with the potatoes on top — added only at the table so they stay crisp."
+            ],
+            "tags": [
+                "gheimeh",
+                "split peas",
+                "lamb",
+                "meat",
+                "classic"
+            ]
+        },
+        {
+            "id": "khoresht-bademjan",
+            "title": "Khoresht Bademjan — Eggplant Stew",
+            "originalName": "خورش بادمجان",
+            "description": "Whole fried eggplants lying over a lamb and tomato stew, sharpened with verjuice or lemon.",
+            "category": "Khoresht & Stews",
+            "kosherType": "Meat",
+            "image": "images/Khoresht_Bademjan.jpg",
+            "prepTime": 35,
+            "cookTime": 120,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "lamb, cubed",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "medium eggplants",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "verjuice or lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "",
+                    "unit": "as needed"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Peel the eggplants in stripes, halve them lengthwise, salt and leave 30 minutes. Pat thoroughly dry — this is what stops them drinking oil.",
+                "Fry the eggplants until golden and soft on both sides. Drain on paper.",
+                "Fry the onion until golden, add the turmeric and the meat and sear.",
+                "Add the tomato paste, grated tomatoes and water to cover. Cook covered 75 minutes.",
+                "Lay the fried eggplants over the meat — do not stir, so they stay whole — and add the verjuice.",
+                "Cook another 20 minutes over low heat. Stir in the saffron water and serve over chelow."
+            ],
+            "tags": [
+                "eggplant",
+                "lamb",
+                "meat",
+                "khoresht",
+                "classic"
+            ]
+        },
+        {
+            "id": "khoresht-karafs",
+            "title": "Khoresht Karafs — Celery Stew",
+            "originalName": "خورش کرفس",
+            "description": "Celery, mint and parsley in a sour lamb stew. Green, fragrant, and unlike any other celery dish.",
+            "category": "Khoresht & Stews",
+            "kosherType": "Meat",
+            "image": "images/Khoresht_Karafs.jpg",
+            "prepTime": 30,
+            "cookTime": 120,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "lamb, cubed",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "celery stalks, cut",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "fresh mint, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "dried Persian limes",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the mint and parsley in oil over low heat for 10 minutes until darkened and fragrant.",
+                "In a separate pot fry the onion until golden, add the turmeric and the meat and sear all over.",
+                "Add water to cover and cook covered for an hour.",
+                "Fry the celery in oil for 8 minutes until it colours lightly at the edges — do not cook it soft.",
+                "Add the celery, the fried herbs, the pierced limes and the lemon juice to the pot.",
+                "Cook a further 40 minutes. The celery should keep some bite. Serve over chelow."
+            ],
+            "tags": [
+                "celery",
+                "mint",
+                "lamb",
+                "meat",
+                "spring"
+            ]
+        },
+        {
+            "id": "khoresht-rivas",
+            "title": "Khoresht Rivas — Rhubarb Stew",
+            "originalName": "خورش ریواس",
+            "description": "Sharp rhubarb in a lamb stew with mint and parsley. A late-spring dish most of the world has never met.",
+            "category": "Khoresht & Stews",
+            "kosherType": "Meat",
+            "image": "images/Khoresht_Rivas.jpg",
+            "prepTime": 25,
+            "cookTime": 110,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "lamb, cubed",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "rhubarb stalks, cut",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "fresh mint, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onion in oil until golden, add the turmeric and the meat and sear.",
+                "Add water to cover and cook covered 70 minutes until the meat is tender.",
+                "Fry the mint and parsley in oil for 8 minutes and add to the pot.",
+                "Cut the rhubarb into 4cm lengths. Fry it briefly, 2 minutes only — it collapses very fast.",
+                "Add the rhubarb and sugar to the pot and cook 15–20 minutes without stirring much.",
+                "Season and stir in the saffron water. The rhubarb should still be in recognisable pieces."
+            ],
+            "tags": [
+                "rhubarb",
+                "lamb",
+                "sour",
+                "meat",
+                "seasonal"
+            ]
+        },
+        {
+            "id": "khoresht-aloo",
+            "title": "Khoresht Aloo — Prune Stew",
+            "originalName": "خورش آلو",
+            "description": "Lamb with dried prunes and saffron. Sweet, gentle, and the dish you serve to someone who does not like heat.",
+            "category": "Khoresht & Stews",
+            "kosherType": "Meat",
+            "image": "images/Khoresht_Aloo.jpg",
+            "prepTime": 20,
+            "cookTime": 130,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "lamb, cubed",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "pitted dried prunes",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "brown sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a generous pinch"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onion in oil until golden, add the turmeric and the cinnamon stick.",
+                "Add the meat cubes and sear on all sides.",
+                "Add water to cover, bring to the boil and cook covered for 90 minutes.",
+                "Soak the prunes in hot water for 20 minutes and drain.",
+                "Add the prunes, sugar and saffron water and cook 25 minutes over low heat.",
+                "Finish with the lemon juice and season. The sauce should be thick and glossy."
+            ],
+            "tags": [
+                "prunes",
+                "lamb",
+                "sweet",
+                "meat",
+                "mild"
+            ]
+        },
+        {
+            "id": "abgoosht",
+            "title": "Abgoosht — Dizi",
+            "originalName": "آبگوشت",
+            "description": "A lamb and chickpea pot served as two courses from one vessel: the broth first, then the solids mashed to a paste.",
+            "category": "Khoresht & Stews",
+            "kosherType": "Meat",
+            "image": "images/Abgoosht_Dizi.jpg",
+            "prepTime": 25,
+            "cookTime": 210,
+            "servings": 5,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "lamb neck on the bone",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "dried chickpeas, soaked overnight",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "white beans, soaked",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "potatoes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "whole onions",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "dried Persian limes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Put the lamb, chickpeas, beans, onions and turmeric in a heavy pot and cover with water. Bring to the boil and skim.",
+                "Cook covered over low heat for two and a half hours, until the meat falls from the bone.",
+                "Add the whole potatoes, tomato paste and pierced limes. Cook a further 40 minutes.",
+                "Strain the liquid into a bowl — this is the \"ab\", the broth, served first with bread.",
+                "Remove the bones and mash the meat, pulses and potatoes to a coarse paste — this is the \"goosht\".",
+                "Serve the paste as the second course, with raw onion, pickles and flatbread."
+            ],
+            "tags": [
+                "abgoosht",
+                "dizi",
+                "lamb",
+                "meat",
+                "traditional"
+            ]
+        },
+        {
+            "id": "khoresht-beh",
+            "title": "Khoresht Beh — Quince Stew",
+            "originalName": "خورش به",
+            "description": "Caramelised quince in a lamb stew with split peas. The smell of the quince fills the whole house.",
+            "category": "Khoresht & Stews",
+            "kosherType": "Meat",
+            "image": "images/Khoresht_Beh.jpg",
+            "prepTime": 30,
+            "cookTime": 130,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "lamb, cubed",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "quinces",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "yellow split peas, soaked",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onion in oil until golden, add the turmeric and the meat and sear on all sides.",
+                "Add water to cover and cook covered 70 minutes. Add the split peas and cook a further 25 minutes.",
+                "Halve the quinces, core them and cut into thick wedges. Hold in lemon water so they do not darken.",
+                "Fry the quince wedges in oil with the sugar until golden and caramelised on both sides.",
+                "Lay the quince over the meat, add the cinnamon and lemon juice, and cook together 25 minutes.",
+                "Stir in the saffron water and season. The quince should be tender but still holding."
+            ],
+            "tags": [
+                "quince",
+                "lamb",
+                "autumn",
+                "meat",
+                "fragrant"
+            ]
+        },
+        {
+            "id": "khoresht-loobia-sabz",
+            "title": "Khoresht Loobia Sabz — Green Bean Stew",
+            "originalName": "خورش لوبیا سبز",
+            "description": "Green beans and beef in a tomato and turmeric sauce. The simplest stew on this list, and one of the most common at home.",
+            "category": "Khoresht & Stews",
+            "kosherType": "Meat",
+            "image": "images/Khoresht_Loobia_Sabz.jpg",
+            "prepTime": 20,
+            "cookTime": 100,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "beef, cubed",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "green beans, cut",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes, grated",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onion in oil until golden, add the turmeric and the beef and sear.",
+                "Add the tomato paste and fry a minute, then the grated tomatoes and water to cover.",
+                "Cook covered for 60 minutes until the beef softens.",
+                "Fry the green beans separately in oil for 5 minutes — this keeps their colour.",
+                "Add the beans to the pot with the cinnamon and cook a further 25 minutes.",
+                "Season. The sauce should be thick, not watery."
+            ],
+            "tags": [
+                "green beans",
+                "beef",
+                "meat",
+                "simple",
+                "everyday"
+            ]
+        },
+        {
+            "id": "kabab-koobideh",
+            "title": "Kabab Koobideh",
+            "originalName": "کباب کوبیده",
+            "description": "Ground meat with grated onion, pressed onto a flat skewer and grilled over coals. The kabab every other one is measured against.",
+            "category": "Kabab & Grill",
+            "kosherType": "Meat",
+            "image": "images/Kabab_Koobideh.jpg",
+            "prepTime": 40,
+            "cookTime": 15,
+            "servings": 5,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "fatty ground lamb",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "ground beef",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "large onions, grated",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "sumac",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "salt and black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                },
+                {
+                    "name": "tomatoes for grilling",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "hot green peppers",
+                    "quantity": "3",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Grate the onion finely and squeeze it dry in a cloth — wet onion makes the meat fall off the skewer. This is the critical step.",
+                "Knead both meats with the squeezed onion, sumac, turmeric, salt and pepper for 10 minutes, until the mixture turns sticky and uniform.",
+                "Chill at least an hour — cold meat grips better.",
+                "Wet your hands in salted water, take a ball of meat and press it along a wide flat skewer, ridging it with your fingers.",
+                "Grill over hot coals 4 minutes a side, turning constantly. Do not walk away from the skewer.",
+                "Grill tomatoes and peppers alongside. Serve over chelow with saffron water and sumac."
+            ],
+            "tags": [
+                "koobideh",
+                "kabab",
+                "charcoal",
+                "meat",
+                "classic"
+            ]
+        },
+        {
+            "id": "kabab-barg",
+            "title": "Kabab Barg",
+            "originalName": "کباب برگ",
+            "description": "Thin fillet slices in an onion, lemon and saffron marinade. The name means \"leaf\", after the shape.",
+            "category": "Kabab & Grill",
+            "kosherType": "Meat",
+            "image": "images/Kabab_Barg.jpg",
+            "prepTime": 240,
+            "cookTime": 12,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "beef or lamb fillet",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "large onion, grated",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a generous pinch"
+                },
+                {
+                    "name": "cracked black pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                },
+                {
+                    "name": "sumac, to serve",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Slice the meat into thin 1cm slices and flatten them lightly with a mallet.",
+                "Make the marinade: grated and squeezed onion, lemon juice, olive oil, pepper and half the saffron water. **No salt** — salt at this stage dries the meat out.",
+                "Marinate at least 4 hours in the fridge, overnight if possible.",
+                "Thread each slice lengthwise onto a flat skewer, like a ribbon.",
+                "Grill over strong coals 4–5 minutes a side only. The meat is thin and burns fast.",
+                "Salt only at the end, brush with the remaining saffron water and serve with sumac."
+            ],
+            "tags": [
+                "barg",
+                "fillet",
+                "saffron",
+                "meat",
+                "festive"
+            ]
+        },
+        {
+            "id": "joojeh-kabab",
+            "title": "Joojeh Kabab — Saffron Chicken Kabab",
+            "originalName": "جوجه کباب",
+            "description": "Golden-yellow chicken from a saffron, lemon and onion marinade. The common marinade is yogurt-based; this one is lemon-based, which keeps the dish meat.",
+            "category": "Kabab & Grill",
+            "kosherType": "Meat",
+            "image": "images/Joojeh_Kabab.jpg",
+            "prepTime": 250,
+            "cookTime": 20,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "chicken breast and thigh, cubed",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "large onions, grated",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a generous pinch"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                },
+                {
+                    "name": "cherry tomatoes",
+                    "quantity": "250",
+                    "unit": "g"
+                },
+                {
+                    "name": "lemon wedges to serve",
+                    "quantity": "2",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Steep the saffron in 3 tablespoons of hot water for 15 minutes.",
+                "Make the marinade: squeezed grated onion, lemon juice, olive oil, pepper and half the saffron water. **No yogurt** — this version is traditional, and it keeps the dish meat.",
+                "Add the chicken cubes to the marinade and chill at least 4 hours.",
+                "Thread onto skewers alternating with cherry tomatoes.",
+                "Grill over medium coals 8–10 minutes, turning every 2 minutes.",
+                "Brush with the remaining saffron water in the last minutes, salt, and serve with lemon wedges."
+            ],
+            "tags": [
+                "joojeh",
+                "chicken",
+                "saffron",
+                "meat",
+                "easy"
+            ]
+        },
+        {
+            "id": "kabab-chenjeh",
+            "title": "Kabab Chenjeh",
+            "originalName": "کباب چنجه",
+            "description": "Lamb cubes with almost no spice — onion, lemon and pepper. The meat has to be good enough to stand on its own.",
+            "category": "Kabab & Grill",
+            "kosherType": "Meat",
+            "image": "images/Kabab_Chenjeh.jpg",
+            "prepTime": 250,
+            "cookTime": 15,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "lamb shoulder or fillet, cubed",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "large onions, grated",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cracked black pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                },
+                {
+                    "name": "white onion to serve",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "sumac",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cut the lamb into 3cm cubes, leaving a little fat on each.",
+                "Mix with the grated onion, lemon juice, oil and pepper. No salt.",
+                "Marinate 4 hours in the fridge.",
+                "Thread tightly onto skewers with no vegetables between — meat should touch meat.",
+                "Grill over strong coals 5–7 minutes, turning every ninety seconds.",
+                "Salt at the end and serve with sliced fresh onion and sumac."
+            ],
+            "tags": [
+                "chenjeh",
+                "lamb",
+                "skewer",
+                "meat",
+                "simple"
+            ]
+        },
+        {
+            "id": "shishlik",
+            "title": "Shishlik — Lamb Chops",
+            "originalName": "شیشلیک",
+            "description": "Whole lamb chops on the bone, grilled until the fat crisps. The signature dish of Shandiz.",
+            "category": "Kabab & Grill",
+            "kosherType": "Meat",
+            "image": "images/Shishlik_Lamb_Chops.jpg",
+            "prepTime": 250,
+            "cookTime": 18,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "lamb chops",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "large onions, grated",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                },
+                {
+                    "name": "lemons to serve",
+                    "quantity": "2",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Trim the chops but leave the fat — it is what makes them crisp.",
+                "Mix the squeezed grated onion, lemon juice, olive oil, pepper and saffron water.",
+                "Marinate at least 4 hours, ideally overnight, turning once.",
+                "Lay the chops directly on the charcoal grill, not on a skewer.",
+                "Grill 8–9 minutes a side over medium heat — rendering fat will flare, so keep moving them and do not walk away.",
+                "Salt with coarse salt at the end and serve with lemon wedges and chelow."
+            ],
+            "tags": [
+                "shishlik",
+                "chops",
+                "lamb",
+                "meat",
+                "grill"
+            ]
+        },
+        {
+            "id": "kabab-torsh",
+            "title": "Kabab Torsh — Sour Kabab from Gilan",
+            "originalName": "کباب ترش",
+            "description": "A northern kabab in a walnut and pomegranate marinade. Sour, nutty and dark — unlike any other kabab.",
+            "category": "Kabab & Grill",
+            "kosherType": "Meat",
+            "image": "images/Kabab_Torsh.jpg",
+            "prepTime": 730,
+            "cookTime": 15,
+            "servings": 5,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "beef fillet, cubed",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "ground walnuts",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Blitz the walnuts, garlic, coriander and pomegranate molasses to a thick paste.",
+                "Stir in the olive oil and pepper. The marinade should be dark and viscous.",
+                "Rub the meat cubes in the paste and refrigerate **at least 12 hours** — the pomegranate acid is what tenderises the meat.",
+                "Shake off the excess marinade and thread onto skewers.",
+                "Grill over medium coals 6–8 minutes, turning every two minutes. The marinade scorches fast over high heat.",
+                "Salt at the end and serve with chelow and red onion."
+            ],
+            "tags": [
+                "torsh",
+                "gilan",
+                "walnut",
+                "meat",
+                "sour"
+            ]
+        },
+        {
+            "id": "kabab-bakhtiari",
+            "title": "Kabab Bakhtiari",
+            "originalName": "کباب بختیاری",
+            "description": "One skewer alternating lamb and chicken. Two textures, two marinades, a single skewer.",
+            "category": "Kabab & Grill",
+            "kosherType": "Meat",
+            "image": "images/Kabab_Bakhtiari.jpg",
+            "prepTime": 250,
+            "cookTime": 18,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "lamb fillet, cubed",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "chicken breast, cubed",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "large onions, grated",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a generous pinch"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Divide the grated onion between two bowls. To the lamb add pepper and oil; to the chicken add turmeric and saffron water.",
+                "Add lemon juice to both and marinate separately for 4 hours — chicken and lamb cook differently, so the marinades differ too.",
+                "Thread alternately onto one skewer: lamb, chicken, lamb, chicken.",
+                "Grill over medium coals, starting with the lamb end nearer the hot centre.",
+                "Grill 8–9 minutes a side, turning often.",
+                "Brush with saffron, salt and serve over chelow."
+            ],
+            "tags": [
+                "bakhtiari",
+                "lamb",
+                "chicken",
+                "meat",
+                "skewer"
+            ]
+        },
+        {
+            "id": "mahi-kabab",
+            "title": "Mahi Kabab — Grilled Fish",
+            "originalName": "ماهی کباب",
+            "description": "White fish in a saffron, garlic and coriander marinade, grilled over coals. Fin-and-scale fish only — the dish is parve.",
+            "category": "Kabab & Grill",
+            "kosherType": "Parve",
+            "image": "images/Mahi_Kabab.jpg",
+            "prepTime": 70,
+            "cookTime": 15,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "sea bass or bream fillet",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lime juice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cut the fillets into 5cm pieces, keeping the skin on.",
+                "Mix the garlic, coriander, lime juice, olive oil, turmeric, saffron water and pepper.",
+                "Marinate the fish 45 minutes only — longer and the acid starts to \"cook\" it.",
+                "Thread onto flat skewers, or lay on an oiled grill rack.",
+                "Grill over medium coals 5–6 minutes a side only. Turn once.",
+                "Salt at the end and serve with sabzi polo and lime. Fin-and-scale fish only."
+            ],
+            "tags": [
+                "fish",
+                "grill",
+                "saffron",
+                "parve",
+                "easy"
+            ]
+        },
+        {
+            "id": "kabab-tabei",
+            "title": "Kabab Tabei — Pan Kabab",
+            "originalName": "کباب تابه‌ای",
+            "description": "The koobideh mixture, made in a pan with no skewers. What you make when there are no coals and there is hunger.",
+            "category": "Kabab & Grill",
+            "kosherType": "Meat",
+            "image": "images/Kabab_Tabei.jpg",
+            "prepTime": 25,
+            "cookTime": 25,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "ground lamb",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "ground beef",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, grated and squeezed",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sumac",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "tomatoes, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Knead the meat with the squeezed onion, turmeric, sumac, salt and pepper for 8 minutes until sticky.",
+                "Press the whole mixture into an even layer in a large oiled pan.",
+                "Score it into squares with a knife — it will then break cleanly when served.",
+                "Fry covered over medium heat for 10 minutes, until the base is golden.",
+                "Turn it carefully using a plate, lay tomato slices on top and fry a further 10 minutes.",
+                "Drizzle with saffron water and serve straight from the pan with bread or rice."
+            ],
+            "tags": [
+                "pan",
+                "koobideh",
+                "quick",
+                "meat",
+                "everyday"
+            ]
+        },
+        {
+            "id": "shami-kabab",
+            "title": "Shami Kabab — Meat and Split Pea Patties",
+            "originalName": "شامی کباب",
+            "description": "Flat patties of meat and ground yellow split peas, with a hole in the middle. Travel food — they are good cold too.",
+            "category": "Kabab & Grill",
+            "kosherType": "Meat",
+            "image": "images/Shami_Kabab.jpg",
+            "prepTime": 45,
+            "cookTime": 25,
+            "servings": 5,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "ground beef",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "dried yellow split peas",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onion, grated",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "",
+                    "unit": "as needed"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cook the split peas in water for 40 minutes until very soft. Drain thoroughly and dry.",
+                "Blitz the peas with the ground beef and onion to a smooth, sticky paste.",
+                "Add the eggs, turmeric, cinnamon, cumin, salt and pepper and mix. Chill 30 minutes.",
+                "Form balls with damp hands, flatten into 1cm rounds and press a hole through the centre with a finger.",
+                "Shallow-fry 4–5 minutes a side until browned.",
+                "Drain on paper. Serve hot or cold with bread, pickles and lemon."
+            ],
+            "tags": [
+                "shami",
+                "patties",
+                "split peas",
+                "meat",
+                "hot or cold"
+            ]
+        },
+        {
+            "id": "gondi",
+            "title": "Gondi — Chicken and Chickpea Dumplings",
+            "originalName": "گندی",
+            "description": "Dumplings of chickpea flour and ground chicken, poached in clear broth. The Shabbat dish of Iranian Jews, and it has no equivalent.",
+            "category": "Soups, Kuku & Gondi",
+            "kosherType": "Meat",
+            "image": "images/Gondi_Chicken_Dumplings.jpg",
+            "prepTime": 35,
+            "cookTime": 75,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "ground chicken or turkey",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "chickpea flour",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "large onions, grated",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "chicken broth",
+                    "quantity": "2",
+                    "unit": "litres"
+                },
+                {
+                    "name": "whole onion for the broth",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "dried Persian limes",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Grate the onion finely and squeeze it dry. Wet onion will break the dumplings apart as they cook.",
+                "Knead the ground chicken, chickpea flour, squeezed onion, cardamom, turmeric, oil, salt and pepper for 10 minutes to a smooth, sticky paste.",
+                "Chill at least 30 minutes — this is what holds the balls together.",
+                "Bring the broth to a gentle simmer with the whole onion and the pierced limes.",
+                "Form walnut-sized balls with wet hands and lower them carefully into the simmering broth.",
+                "Cook covered over low heat for 60 minutes without stirring. They rise to the surface when done. Serve in a bowl with the broth, flatbread and fresh herbs."
+            ],
+            "tags": [
+                "gondi",
+                "shabbat",
+                "chickpea flour",
+                "meat",
+                "persian-jewish"
+            ]
+        },
+        {
+            "id": "ash-e-anar",
+            "title": "Ash-e Anar — Pomegranate Soup",
+            "originalName": "آش انار",
+            "description": "A thick soup of herbs, rice and lentils in a sour pomegranate broth. Pink-brown, and it serves autumn in a bowl.",
+            "category": "Soups, Kuku & Gondi",
+            "kosherType": "Parve",
+            "image": "images/Ash_e_Anar.jpg",
+            "prepTime": 30,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "natural pomegranate juice",
+                    "quantity": "1",
+                    "unit": "litre"
+                },
+                {
+                    "name": "short-grain rice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "green lentils",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "split peas",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "fresh mint, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "chives, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pomegranate seeds to garnish",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Fry the onions in oil until deeply golden, add the turmeric and set half aside for the garnish.",
+                "Add the rice, lentils and split peas to the pot with 1.5 litres of water. Cook 40 minutes.",
+                "Add all the chopped herbs and cook a further 20 minutes — the soup will darken.",
+                "Add the pomegranate juice, molasses and sugar. Cook 25 minutes uncovered over low heat.",
+                "Taste and balance: more molasses for sharpness, more sugar for sweetness. It should be thick.",
+                "Serve with the fried onion and fresh pomegranate seeds on top."
+            ],
+            "tags": [
+                "ash",
+                "pomegranate",
+                "herbs",
+                "parve",
+                "autumn"
+            ]
+        },
+        {
+            "id": "ash-e-jo",
+            "title": "Ash-e Jo — Parve Barley Soup",
+            "originalName": "آش جو",
+            "description": "A barley and pulse soup with herbs. The traditional version is served with kashk; this one is parve, with nothing put in its place.",
+            "category": "Soups, Kuku & Gondi",
+            "kosherType": "Parve",
+            "image": "images/Ash_e_Jo.jpg",
+            "prepTime": 25,
+            "cookTime": 95,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "pearl barley",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "green lentils",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "white beans, soaked",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "chives, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dill, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onions in oil until golden. Set a third aside for the garnish and stir the dried mint into it.",
+                "Add the turmeric to the pot, then the barley, lentils and beans and 2 litres of water.",
+                "Cook covered 60 minutes until the barley is tender and the soup begins to thicken.",
+                "Add all the herbs and cook a further 25 minutes.",
+                "Season with salt, pepper and lemon juice. If too thick, add boiling water.",
+                "Serve with the fried onion and mint on top. Fully parve — it works beside a dairy course too."
+            ],
+            "tags": [
+                "ash",
+                "barley",
+                "herbs",
+                "parve",
+                "winter"
+            ]
+        },
+        {
+            "id": "soup-e-jo",
+            "title": "Soup-e Jo — Barley and Chicken Soup",
+            "originalName": "سوپ جو",
+            "description": "A smooth barley soup with carrot, chicken and lemon. The restaurant version is thickened with cream; this one uses broth alone, so it stays meat.",
+            "category": "Soups, Kuku & Gondi",
+            "kosherType": "Meat",
+            "image": "images/Soup_e_Jo.jpg",
+            "prepTime": 20,
+            "cookTime": 70,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "chicken legs",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "pearl barley",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "carrots, small dice",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "potato, diced",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and white pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cook the chicken legs in 2 litres of water with half the onion for 40 minutes. Strain the broth and pull the meat from the bone.",
+                "Fry the remaining onion in oil until translucent, add the turmeric.",
+                "Add the strained broth, the barley, carrot and potato. Cook 30 minutes.",
+                "Blend about a third of the soup and return it — this gives a velvety texture with no cream.",
+                "Return the shredded chicken and warm through for 5 minutes.",
+                "Season with salt, white pepper and lemon juice, and stir in the parsley. No dairy here."
+            ],
+            "tags": [
+                "soup",
+                "barley",
+                "chicken",
+                "meat",
+                "comfort"
+            ]
+        },
+        {
+            "id": "kuku-sabzi",
+            "title": "Kuku Sabzi — Herb Frittata",
+            "originalName": "کوکو سبزی",
+            "description": "More herb than egg, so dark green it is nearly black, with barberries and walnuts. It sits on the Persian-Jewish seder table.",
+            "category": "Soups, Kuku & Gondi",
+            "kosherType": "Parve",
+            "image": "images/Kuku_Sabzi.jpg",
+            "prepTime": 30,
+            "cookTime": 35,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "eggs",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley, finely chopped",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "coriander, finely chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dill, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "chives, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried barberries",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "walnuts, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Chop all the herbs finely and dry them well between towels — wet herbs make a slimy kuku.",
+                "Beat the eggs and add the flour, baking powder, turmeric, salt and pepper.",
+                "Fold in all the herbs, the barberries and the walnuts. It should look like herbs held together by egg, not the other way round.",
+                "Heat the oil in a medium pan and pour in the whole mixture, spreading it evenly.",
+                "Cook covered over low heat for 15 minutes, until the base is golden and the centre almost set.",
+                "Turn it with a plate and cook a further 10 minutes. Serve hot or at room temperature, cut into wedges."
+            ],
+            "tags": [
+                "kuku",
+                "herbs",
+                "eggs",
+                "parve",
+                "passover"
+            ]
+        },
+        {
+            "id": "kuku-sibzamini",
+            "title": "Kuku Sibzamini — Potato Kuku",
+            "originalName": "کوکو سیب‌زمینی",
+            "description": "Grated potato and egg with saffron and turmeric. Plain, golden, and eaten hot or straight from the fridge.",
+            "category": "Soups, Kuku & Gondi",
+            "kosherType": "Parve",
+            "image": "images/Kuku_Sibzamini.jpg",
+            "prepTime": 25,
+            "cookTime": 30,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "potatoes",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "onion, grated",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Boil the potatoes in their skins for 25 minutes until tender. Cool, peel and grate coarsely.",
+                "Squeeze the grated onion dry.",
+                "Beat the eggs with the flour, baking powder, turmeric, saffron water, salt and pepper.",
+                "Fold in the potato and onion — gently, so they do not turn to mash.",
+                "Cook in an oiled pan, covered, for 12 minutes over low heat.",
+                "Turn with a plate and cook a further 10 minutes until golden. Cut into wedges."
+            ],
+            "tags": [
+                "kuku",
+                "potato",
+                "eggs",
+                "parve",
+                "easy"
+            ]
+        },
+        {
+            "id": "kuku-bademjan",
+            "title": "Kuku Bademjan — Eggplant Kuku",
+            "originalName": "کوکو بادمجان",
+            "description": "Roasted, mashed eggplant bound with egg, turmeric and garlic. Deep and smoky, nothing like the green kuku.",
+            "category": "Soups, Kuku & Gondi",
+            "kosherType": "Parve",
+            "image": "images/Kuku_Bademjan.jpg",
+            "prepTime": 35,
+            "cookTime": 30,
+            "servings": 5,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "medium eggplants",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Roast the eggplants at 220°C for about 35 minutes until fully collapsed. Cool, peel and mash.",
+                "Drain the mashed flesh in a sieve for 15 minutes — the bitter liquid has to go.",
+                "Fry the onion and garlic in oil until golden, add the turmeric and dried mint.",
+                "Beat the eggs with the flour, baking powder, salt and pepper, and fold in the eggplant and onion.",
+                "Pour into an oiled pan and cook covered 15 minutes over low heat.",
+                "Turn and cook a further 10 minutes. Serve with flatbread and herbs."
+            ],
+            "tags": [
+                "kuku",
+                "eggplant",
+                "eggs",
+                "parve",
+                "smoky"
+            ]
+        },
+        {
+            "id": "eshkeneh",
+            "title": "Eshkeneh — Onion and Egg Soup",
+            "originalName": "اشکنه",
+            "description": "A rustic soup of fried onion, fenugreek and egg whisked in at the end. Five ingredients, and unreasonably comforting.",
+            "category": "Soups, Kuku & Gondi",
+            "kosherType": "Parve",
+            "image": "images/Eshkeneh_Onion_Soup.jpg",
+            "prepTime": 15,
+            "cookTime": 35,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "onions, thinly sliced",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "dried fenugreek",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "boiling water",
+                    "quantity": "1.2",
+                    "unit": "litres"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onion in oil over medium-low heat for 20 minutes, until brown and sweet. That is the entire base.",
+                "Add the turmeric and flour and stir for a minute — the flour will thicken the soup.",
+                "Add the fenugreek and pour in the boiling water gradually, stirring, to avoid lumps.",
+                "Cook 12 minutes over low heat and season with salt and pepper.",
+                "Beat the eggs in a bowl, lower the heat and pour them in slowly while stirring constantly — they should shred into threads, not set into curds.",
+                "Finish with lemon juice and serve at once with bread."
+            ],
+            "tags": [
+                "eshkeneh",
+                "onion",
+                "eggs",
+                "parve",
+                "quick"
+            ]
+        },
+        {
+            "id": "ash-e-sholeh-ghalamkar",
+            "title": "Ash-e Sholeh Ghalamkar — Everything Soup",
+            "originalName": "آش شله قلمکار",
+            "description": "A thick soup with four pulses, rice and four herbs. The name refers to printed cloth — because everything goes in.",
+            "category": "Soups, Kuku & Gondi",
+            "kosherType": "Parve",
+            "image": "images/Ash_Sholeh_Ghalamkar.jpg",
+            "prepTime": 35,
+            "cookTime": 120,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "chickpeas, soaked",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "white beans, soaked",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "kidney beans, soaked",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "green lentils",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "short-grain rice",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "chives, chopped",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dill, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "spinach, chopped",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onions in oil for 20 minutes until deeply brown. Set half aside and stir the dried mint into it.",
+                "Add the turmeric to the pot, then all the soaked pulses and 2.5 litres of water. Cook an hour.",
+                "Add the rice and cook a further 20 minutes.",
+                "Add all the herbs and the spinach and cook 30 minutes — it should thicken until a spoon nearly stands in it.",
+                "Season with salt, pepper and lemon juice.",
+                "Serve with the fried onion and mint on top. A soup for a crowd."
+            ],
+            "tags": [
+                "ash",
+                "pulses",
+                "herbs",
+                "parve",
+                "festive"
+            ]
+        },
+        {
+            "id": "ab-doogh-khiar",
+            "title": "Ab-Doogh Khiar — Cold Yogurt Soup",
+            "originalName": "آبدوغ خیار",
+            "description": "A cold summer soup of yogurt, cucumber, raisins and walnuts. The one dairy recipe in this category.",
+            "category": "Soups, Kuku & Gondi",
+            "kosherType": "Dairy",
+            "image": "images/Ab_Doogh_Khiar.jpg",
+            "prepTime": 20,
+            "cookTime": 0,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "plain yogurt",
+                    "quantity": "750",
+                    "unit": "g"
+                },
+                {
+                    "name": "cucumbers, peeled and diced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "golden raisins",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "walnuts, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "fresh dill, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "spring onions, chopped",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "cold water or ice",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dry flatbread",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Soak the raisins in hot water for 10 minutes and drain.",
+                "Whisk the yogurt with the cold water in a large bowl until smooth and pourable.",
+                "Add the cucumber, raisins, walnuts, dill, spring onion and dried mint.",
+                "Season and chill at least two hours — it has to be very cold.",
+                "Tear the dry bread into coarse crumbs and stir them in just before serving, so they do not dissolve.",
+                "Serve with ice cubes. **A dairy recipe** — not for a meat meal."
+            ],
+            "tags": [
+                "cold soup",
+                "yogurt",
+                "dairy",
+                "summer",
+                "no-cook"
+            ]
+        },
+        {
+            "id": "salad-shirazi",
+            "title": "Shirazi Salad",
+            "originalName": "سالاد شیرازی",
+            "description": "Cucumber, tomato and onion in tiny dice with lime and dried mint. The salad that reaches every Persian table.",
+            "category": "Salads, Pickles & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Salad_Shirazi.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "cucumbers",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "ripe tomatoes",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "small red onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "lime juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sumac",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cut the cucumber, tomato and onion into tiny, evenly sized dice — that is the whole secret, and the knife matters more than the ingredients.",
+                "Scoop out the tomato seeds if they are very watery, so the salad does not go soupy.",
+                "Toss in a bowl with the lime juice, olive oil, dried mint and sumac.",
+                "Season with salt and pepper only just before serving, since salt draws out liquid.",
+                "Chill 20 minutes.",
+                "Toss again and serve cold, with a slotted spoon so the liquid stays in the bowl."
+            ],
+            "tags": [
+                "salad",
+                "cucumber",
+                "lime",
+                "parve",
+                "summer"
+            ]
+        },
+        {
+            "id": "mast-o-khiar",
+            "title": "Mast-o Khiar — Yogurt and Cucumber",
+            "originalName": "ماست و خیار",
+            "description": "Thick yogurt with cucumber, raisins, walnuts and dried rose petals. A dairy recipe.",
+            "category": "Salads, Pickles & Sweets",
+            "kosherType": "Dairy",
+            "image": "images/Mast_o_Khiar.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "thick yogurt",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "cucumbers, peeled and diced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "golden raisins",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "walnuts, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "fresh dill, chopped",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "dried rose petals",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Strain the yogurt in a cloth for 30 minutes if it is loose — it needs to be very thick.",
+                "Soak the raisins in hot water 10 minutes, drain and dry.",
+                "Dice the cucumbers small. If watery, salt them lightly and drain for 10 minutes.",
+                "Fold the yogurt together with the cucumber, raisins, half the walnuts, dill and dried mint.",
+                "Season with salt and chill an hour.",
+                "Serve with the remaining walnuts, rose petals and olive oil on top. **Dairy** — not beside a meat course."
+            ],
+            "tags": [
+                "yogurt",
+                "cucumber",
+                "dairy",
+                "cold",
+                "starter"
+            ]
+        },
+        {
+            "id": "borani-esfenaj",
+            "title": "Borani Esfenaj — Spinach in Yogurt",
+            "originalName": "بورانی اسفناج",
+            "description": "Cooked spinach with garlic folded into thick yogurt. Green and white, and always asked for again. A dairy recipe.",
+            "category": "Salads, Pickles & Sweets",
+            "kosherType": "Dairy",
+            "image": "images/Borani_Esfenaj.jpg",
+            "prepTime": 20,
+            "cookTime": 20,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "fresh spinach",
+                    "quantity": "700",
+                    "unit": "g"
+                },
+                {
+                    "name": "thick yogurt",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "chopped walnuts to garnish",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Blanch the spinach in boiling water for a minute, drain and refresh in cold water.",
+                "Squeeze the spinach hard — this matters, or the dish turns watery — and chop roughly.",
+                "Fry the onion and garlic in olive oil until soft, add the spinach and cook 5 minutes. Cool completely.",
+                "Fold the cold spinach into the yogurt — if the spinach is warm the yogurt will split.",
+                "Season with salt, pepper and dried mint. Chill an hour.",
+                "Serve with walnuts and olive oil on top. **Dairy.**"
+            ],
+            "tags": [
+                "borani",
+                "spinach",
+                "yogurt",
+                "dairy",
+                "starter"
+            ]
+        },
+        {
+            "id": "torshi-liteh",
+            "title": "Torshi Liteh — Minced Pickles",
+            "originalName": "ترشی لیته",
+            "description": "Eggplant, vegetables and herbs minced into vinegar and cured for two months. Sour, hot and addictive.",
+            "category": "Salads, Pickles & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Torshi_Liteh.jpg",
+            "prepTime": 40,
+            "cookTime": 0,
+            "servings": 12,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "eggplants",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "carrots",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "cauliflower",
+                    "quantity": "1/2",
+                    "unit": ""
+                },
+                {
+                    "name": "hot green peppers",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "dried fenugreek",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground coriander seed",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "kosher vinegar",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Roast the eggplants until fully soft, peel and drain in a sieve for an hour — any liquid left will spoil the cure.",
+                "Chop the carrot, cauliflower, peppers and garlic very finely, or pulse briefly in a processor.",
+                "Mix everything with the eggplant flesh, mint, fenugreek, coriander seed and salt.",
+                "Add the vinegar gradually to a thick but pourable paste.",
+                "Pack into sterilised jars, making sure a centimetre of vinegar covers everything — this is what prevents mould.",
+                "Seal and leave somewhere cool and dark for **two months** before opening."
+            ],
+            "tags": [
+                "torshi",
+                "pickles",
+                "eggplant",
+                "parve",
+                "pantry"
+            ]
+        },
+        {
+            "id": "mirza-ghasemi",
+            "title": "Mirza Ghasemi — Smoked Eggplant",
+            "originalName": "میرزا قاسمی",
+            "description": "Eggplant charred over flame with garlic, tomato and egg. The signature dish of Gilan, and genuinely smoky.",
+            "category": "Salads, Pickles & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Mirza_Ghasemi.jpg",
+            "prepTime": 25,
+            "cookTime": 30,
+            "servings": 5,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "medium eggplants",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "ripe tomatoes, grated",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Char the eggplants directly over an open flame until the skin is completely black and the flesh soft — the smoke is the dish, and an oven will not give you it.",
+                "Peel and mash the flesh with a fork, not a processor. The texture should stay coarse.",
+                "Fry the garlic in oil for 30 seconds only, until fragrant.",
+                "Add the mashed eggplant and turmeric and fry 8 minutes, stirring.",
+                "Add the grated tomato and paste and cook 12 minutes until the liquid reduces.",
+                "Crack in the eggs and stir for 2 minutes until they set through the mixture. **Parve** — there is no butter here."
+            ],
+            "tags": [
+                "mirza ghasemi",
+                "eggplant",
+                "smoky",
+                "parve",
+                "gilan"
+            ]
+        },
+        {
+            "id": "halek",
+            "title": "Halek — Persian Charoset",
+            "originalName": "حلک",
+            "description": "Dates, walnuts, almonds and pistachios in a thick paste with cinnamon and pomegranate. The charoset of Iranian Jews.",
+            "category": "Salads, Pickles & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Halek_Persian_Charoset.jpg",
+            "prepTime": 25,
+            "cookTime": 0,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "pitted medjool dates",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "walnuts",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "blanched almonds",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pistachios",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pomegranate molasses",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "rosewater",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "whole walnuts to decorate",
+                    "quantity": "10",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Toast the walnuts, almonds and pistachios in a dry pan for 5 minutes until fragrant. Cool.",
+                "Grind the nuts coarsely in a processor — keep a few halves back for decoration.",
+                "If the dates are dry, soak them in hot water for 10 minutes and pat dry.",
+                "Blitz the dates to a sticky paste, then add the ground nuts.",
+                "Fold in the pomegranate molasses, cinnamon, cardamom and rosewater. The mixture should be thick and dark.",
+                "Press into a serving bowl and decorate with whole walnuts. Keeps two weeks refrigerated."
+            ],
+            "tags": [
+                "halek",
+                "charoset",
+                "dates",
+                "parve",
+                "passover"
+            ]
+        },
+        {
+            "id": "sholeh-zard",
+            "title": "Sholeh Zard — Saffron Rice Pudding",
+            "originalName": "شله زرد",
+            "description": "A rice pudding glowing yellow with saffron, scented with rosewater and cardamom. Not a drop of milk — entirely parve.",
+            "category": "Salads, Pickles & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Sholeh_Zard.jpg",
+            "prepTime": 20,
+            "cookTime": 90,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "short-grain rice",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "6",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a generous pinch"
+                },
+                {
+                    "name": "rosewater",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "flaked almonds",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "chopped pistachios",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cinnamon to decorate",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Rinse the rice and soak two hours. Drain.",
+                "Cook the rice in 6 cups of water over low heat for 50 minutes, until the grains break down completely.",
+                "Steep the saffron in 3 tablespoons of hot water.",
+                "Add the sugar and cook 20 minutes, stirring — only once the rice is soft, because sugar added early stops it softening.",
+                "Add the oil, saffron water, rosewater and cardamom. Cook a further 15 minutes until thick and glossy.",
+                "Pour into bowls, cool, and decorate with cinnamon, almonds and pistachios. **Parve** — it can follow a meat meal."
+            ],
+            "tags": [
+                "sholeh zard",
+                "rice",
+                "saffron",
+                "parve",
+                "dessert"
+            ]
+        },
+        {
+            "id": "faloodeh",
+            "title": "Faloodeh Shirazi",
+            "originalName": "فالوده",
+            "description": "A frozen dessert of fine rice noodles in lime and rosewater syrup. Ice without dairy, and centuries old.",
+            "category": "Salads, Pickles & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Faloodeh_Shirazi.jpg",
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "thin rice noodles",
+                    "quantity": "150",
+                    "unit": "g"
+                },
+                {
+                    "name": "water",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "rosewater",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lime juice",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "limes to serve",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "sour cherries in syrup, to serve",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Make the syrup: bring the water and sugar to the boil, then simmer 10 minutes. Cool completely and stir in the rosewater.",
+                "Boil the rice noodles 2–3 minutes only, drain and rinse in cold water.",
+                "Cut the noodles into 3cm lengths.",
+                "Stir the noodles into the cold syrup and transfer to a shallow tray.",
+                "Freeze 3–4 hours, raking with a fork every 45 minutes to build a grainy, granita-like texture.",
+                "Serve in glasses with fresh lime juice squeezed over and sour cherries. **Parve.**"
+            ],
+            "tags": [
+                "faloodeh",
+                "frozen",
+                "lime",
+                "parve",
+                "summer"
+            ]
+        },
+        {
+            "id": "bastani-sonnati",
+            "title": "Bastani Sonnati — Saffron Ice Cream",
+            "originalName": "بستنی سنتی",
+            "description": "Persian ice cream with saffron, rosewater and pistachios, shot through with frozen cream flakes. A dairy recipe.",
+            "category": "Salads, Pickles & Sweets",
+            "kosherType": "Dairy",
+            "image": "images/Bastani_Sonnati.jpg",
+            "prepTime": 40,
+            "cookTime": 20,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "whole milk",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "double cream",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "egg yolks",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a generous pinch"
+                },
+                {
+                    "name": "rosewater",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "chopped pistachios",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cream to freeze in flakes",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Steep the saffron in 3 tablespoons of hot milk for 20 minutes.",
+                "Heat the milk and cream to just below boiling. Whisk the yolks with the sugar until pale.",
+                "Pour the hot milk into the yolks in a thin stream, whisking constantly — temper it, or the yolks will scramble.",
+                "Return to low heat and stir until the custard coats a spoon, about 8 minutes. **Do not boil.**",
+                "Add the saffron milk, rosewater and cardamom. Cool completely and chill 4 hours.",
+                "Churn in an ice cream maker. Separately freeze the extra cream in a thin layer, break into flakes and fold in with the pistachios. **Dairy.**"
+            ],
+            "tags": [
+                "bastani",
+                "ice cream",
+                "saffron",
+                "dairy",
+                "summer"
+            ]
+        },
+        {
+            "id": "ranginak",
+            "title": "Ranginak — Date and Walnut Squares",
+            "originalName": "رنگینک",
+            "description": "Dates stuffed with walnuts under a blanket of flour toasted in oil with cinnamon. A southern sweet with no baking.",
+            "category": "Salads, Pickles & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Ranginak.jpg",
+            "prepTime": 30,
+            "cookTime": 15,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "pitted medjool dates",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "walnut halves",
+                    "quantity": "30",
+                    "unit": ""
+                },
+                {
+                    "name": "white flour",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "icing sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "chopped pistachios",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Open each date lengthwise and press a walnut half inside. Close it gently.",
+                "Pack the stuffed dates in a single tight layer in a square tin.",
+                "Heat the oil in a pan and add the flour gradually.",
+                "Toast the flour over medium-low heat for 10–12 minutes, stirring constantly, until light brown and smelling nutty. This is the step that decides it — under-toasted flour leaves a raw taste.",
+                "Take off the heat, stir in the cinnamon and cardamom, and pour the hot flour over the dates. Level it with a spoon.",
+                "Cool completely, dust with icing sugar and pistachios and cut into squares. **Parve.**"
+            ],
+            "tags": [
+                "ranginak",
+                "dates",
+                "walnuts",
+                "parve",
+                "no-bake"
+            ]
+        }
+    ]
+}
